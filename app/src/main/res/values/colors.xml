@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><color name="colorPrimary">#65499d</color>
+    <color name="colorPrimaryDark">#65499d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="myBackgroundColor">#4554a4</color>
+    <color name="mytoastbackground">#8f3e97</color>
+    <color name="hometxt"></color>
+    <color name="signup">#1E90FF</color>
+    <color name="white">#fff</color>
+</resources>
